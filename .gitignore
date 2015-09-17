@@ -1,1 +1,3 @@
-config.local.json
+config.js
+npm-debug.log
+data/norrisbot.db
