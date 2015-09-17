@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node bin/bot.js"
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bot": "BOT_API_KEY=xoxb-10871332737-mIkX8r6xDvht86QSJmmBNgEL node bin/bot.js"
+
   },
   "author": "",
   "license": "ISC",
