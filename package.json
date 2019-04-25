@@ -12,7 +12,7 @@
   "dependencies": {
     "config3": "^1.0.0",
     "path": "^0.12.7",
-    "slackbots": "^0.5.0",
+    "slackbots": "^1.0.0",
     "sqlite3": "^3.1.0",
     "util": "^0.10.3"
   }
